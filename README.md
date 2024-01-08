@@ -7,8 +7,8 @@ This Django project implements user authentication with features such as registr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hervenoubs/django-authentication-project.git
-cd django-authentication-project
+git clone git@github.com:hervenoubs/python-django-login-registration-app.git
+cd python-django-login-registration-app
 
 2. Create a Virtual Environment
 
