@@ -1,6 +1,6 @@
 # Django Authentication Project
 
-This Django project implements user authentication with features such as registration, login, home, and logout. The project uses MySQL as the database for storing user information. This project is going to grow to become a complete blogging website with its features and functionalities.
+This Django project implements user authentication with features such as registration, login, home, and logout. The project uses MySQL as the database for storing user information. This project is going to grow to become a complete blogging website with its features and functionalities. Stay tune this week!
 
 ## Setup Instructions
 
