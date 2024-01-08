@@ -2,7 +2,7 @@
 
 This Django project implements user authentication with features such as registration, login, home, and logout. The project uses MySQL as the database for storing user information. This project is going to grow to become a complete blogging website with its features and functionalities. Stay tune this week!
 
-[![Alt text](relative%20[path/to/img.jpg](https://github.com/hervenoubs/python-django-login-registration-app/blob/main/ScreenShot.png)?raw=true "Title")](https://github.com/hervenoubs/python-django-login-registration-app/blob/main/ScreenShot.png)
+<img src="https://github.com/hervenoubs/python-django-login-registration-app/blob/main/ScreenShot.png" />
 
 ## Setup Instructions
 
